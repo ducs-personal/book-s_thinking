@@ -1,6 +1,6 @@
 How to use MarkDown?
 ===
-        -------writen by ducs
+-------writen by ducs
 ---
 
 #THIS IS THE FIRST ITEM#
