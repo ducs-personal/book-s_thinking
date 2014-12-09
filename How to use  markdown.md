@@ -13,5 +13,5 @@ add  a link to csdn blog:
 
 ---
 * NAME: DUCS<br>
-  *- AGE:SECRET<br>
+  * - AGE:SECRET<br>
     *FAVERATE:SLEEP<br>
