@@ -25,5 +25,5 @@ add  a link to csdn blog:
  :smile: I NEED SOME SMILE FACE  :smile:
 ---
 
-- [] you wanna be rich?
+-[ ] you wanna be rich?
 
