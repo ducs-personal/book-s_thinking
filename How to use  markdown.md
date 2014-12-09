@@ -27,5 +27,5 @@ add  a link to csdn blog:
 
 - [ ] you wanna be rich?
 
-- [ :simle: ] you wanna be healthy?
+- [ ] you wanna be healthy? :simle:
 
